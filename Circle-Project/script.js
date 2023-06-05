@@ -25,7 +25,7 @@ bodyE1.addEventListener("click", function (event) {
     bodyE1.appendChild(divE1);
     setTimeout(() => {
         divE1.remove()
-    }, 100000)
+    }, 2000)
 })
 
 function randomColor() {

@@ -10,4 +10,9 @@ div {
     top: 50%;
     border: 3px solid white;
     border-radius: 50%;
+    background-size: cover;
+    pointer-events: none;
+    width:100px;
+    height:100px
+
 }
