@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    height: 100vh;
+}
+
+
+div {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    border: 3px solid white;
+    border-radius: 50%;
+}
