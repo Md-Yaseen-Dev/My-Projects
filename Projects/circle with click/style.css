@@ -1,0 +1,11 @@
+body{
+    font-family:sans-serif;
+    background-color: black;
+}
+
+.circle{
+    border-radius: 50%;
+    position:absolute;
+    border: solid 2px black;
+    box-sizing:border-box;
+}
